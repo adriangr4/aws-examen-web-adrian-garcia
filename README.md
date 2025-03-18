@@ -1,4 +1,4 @@
-# Examen AWS: Creación de una VPC con Máquinas Virtuales y Despliegue Web
+# Creación de una VPC con Máquinas Virtuales y Despliegue Web
 
 ##  1. Creación de la VPC en AWS  
 1. **Crear una VPC** con el nombre `mi-vpc-TuNombre-Apellidos` y el bloque CIDR `10.0.0.0/16`.  
