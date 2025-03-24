@@ -71,3 +71,5 @@ serve -s dist -l 5173
 ![Creacion de Pull Request](./img/pullrequest1.png)
 ![Creacion de Pull Request](./img/pullrequest2.png)
 ![Creacion de Pull Request](./img/pullrequest3.png)
+
+Corrección de faltas Juanjo
